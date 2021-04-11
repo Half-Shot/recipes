@@ -1,0 +1,35 @@
+# TODO: The schema of these recipies needs to be perfected and probably using an open format,
+# but at least this one is reasonable for now.
+name: Halfy's Biryani
+description: >
+ I wasn't satisifed with most of the veg biryani options out
+ there so I ended up writing my own by combining some of them together.
+sources:
+ - https://www.bbcgoodfood.com/recipes/lamb-biryani
+ - https://www.bbcgoodfood.com/recipes/cheats-beetroot-biriyani
+equipment:
+ - Curry dish to cook in (oven proof)
+ - Wooden Spoon
+ - Oven
+
+ingredients: 
+ - Small amount olive oil
+ - One Onion 
+ - Ginger paste
+ - Garlic
+ - cumin seeds
+ - nigella seeds
+ - tumeric
+ - curry paste
+ - Rice
+ - Yogurt
+ - Fresh coriander 
+steps:
+ - step: Cook the vegetables in a little oil, tumeric and salt until just a little soft. Set aside.
+ - step: Fry the onions on a medium heat for 10 minutes until soft. Add the ginger paste, half the garlic and cook for a bit
+ - step: Add the rice, veg and stock and bring to the boil.
+ - step: Meanwhile, heat the oven to 180C
+ - step: Stir in the paneer and spinach, and season.
+ - step: Cover the dish with foil and then a lid. Cook in the oven for 20 minutes then leave to stand, covered for 10 minutes.
+ - step: Remove the lid and foil and scatter with coriander and chillies and serve with yogurt.
+         
