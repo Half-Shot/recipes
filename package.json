@@ -1,0 +1,11 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "repository": "git@github.com:Half-Shot/recipies.git",
+  "author": "Will Hunt <willh@matrix.org>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.0.0"
+  }
+}

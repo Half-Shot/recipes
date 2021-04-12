@@ -7,7 +7,9 @@ description: >
 sources:
  - https://www.bbcgoodfood.com/recipes/lamb-biryani
  - https://www.bbcgoodfood.com/recipes/cheats-beetroot-biriyani
-
+images: [
+  halfy-biryani.webp
+]
 ingredients: 
  - Olive Oil
  - One Diced Onion 
